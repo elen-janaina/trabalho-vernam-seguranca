@@ -1,0 +1,3 @@
+Segundo teste com arquivos, o Cifrador de Vernam, é um método de criptografia teoricamente 
+inquebrável se a chave for aleatória, secreta, usada uma única vez e tiver o mesmo
+tamanho da mensagem.

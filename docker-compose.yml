@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  vernam-app:
+    build: .
+    container_name: vernam_app
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
